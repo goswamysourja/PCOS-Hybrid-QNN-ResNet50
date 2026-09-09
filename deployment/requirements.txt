@@ -1,0 +1,9 @@
+
+torch
+torchvision
+pennylane
+gradio
+numpy
+matplotlib
+pillow
+
